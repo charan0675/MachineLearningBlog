@@ -1,13 +1,24 @@
 ---
 title: "Post 1 - Probability Theory and Random Variables"
+format:
+  html:
+    self-contained: true
+    toc: true
+    theme: cosmo
 author: "Charan Teja Chelle"
 date: "2023-09-15"
 categories: [code, data visualization]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+# Code:
+
+This is ax post with executable code
 
 ```{r}
 1 + 1
 ```
+
+## Data Visualization:
+
+vkhljlj

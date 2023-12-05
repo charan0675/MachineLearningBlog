@@ -10,6 +10,8 @@ Clusteringgggggggggg
 
 xx
 
+bjbhvvu njn
+
 ```{r}
 1 + 1
 ```
