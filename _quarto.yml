@@ -3,12 +3,14 @@ project:
 
 website:
   title: "Machine Learning Blog"
+  repo-url: https://github.com/charan0675/MachineLearningBlog
+  repo-actions: [source]
   navbar:
     background: primary
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/charan0675/MachineLearningBlog
 format:
   html:
     theme: cosmo
