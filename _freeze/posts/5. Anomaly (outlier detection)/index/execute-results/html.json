@@ -1,0 +1,14 @@
+{
+  "hash": "b9aa65ace60d5ab7df7091e5c0440129",
+  "result": {
+    "markdown": "---\ntitle: \"Post 5 - Anomaly/outlier detection\"\nauthor: \"Charan Teja Chelle\"\ndate: \"2023-12-04\"\ncategories: [code, data visualization]\nimage: \"image.jpg\"\n---\n\n\nPost 5.....\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

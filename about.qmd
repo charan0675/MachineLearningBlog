@@ -1,0 +1,14 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - text: chellecharanteja@vt.edu
+      href: https://mail.google.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+About this blog

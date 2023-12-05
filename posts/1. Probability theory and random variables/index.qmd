@@ -1,0 +1,13 @@
+---
+title: "Post 1 - Probability Theory and Random Variables"
+author: "Charan Teja Chelle"
+date: "2023-09-15"
+categories: [code, data visualization]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```

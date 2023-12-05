@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/4. Classification/index.html",
+    "href": "posts/4. Classification/index.html",
+    "title": "Post 4 - Classification",
+    "section": "",
+    "text": "Post 4…..\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/2. Clustering/index.html",
+    "href": "posts/2. Clustering/index.html",
+    "title": "Post 2 - Clustering",
+    "section": "",
+    "text": "Clusteringgggggggggg\nxx\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Machine Learning (CS5805) Blog",
+    "section": "",
+    "text": "Post 5 - Anomaly/outlier detection\n\n\n\n\n\n\n\ncode\n\n\ndata visualization\n\n\n\n\n\n\n\n\n\n\n\nDec 4, 2023\n\n\nCharan Teja Chelle\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nPost 4 - Classification\n\n\n\n\n\n\n\ncode\n\n\ndata visualization\n\n\n\n\n\n\n\n\n\n\n\nNov 19, 2023\n\n\nCharan Teja Chelle\n\n\n\n\n\n\n  \n\n\n\n\nPost 3 - Linear and Nonlinear Regression\n\n\n\n\n\n\n\ncode\n\n\ndata visualization\n\n\n\n\n\n\n\n\n\n\n\nOct 27, 2023\n\n\nCharan Teja Chelle\n\n\n\n\n\n\n  \n\n\n\n\nPost 2 - Clustering\n\n\n\n\n\n\n\ncode\n\n\ndata visualization\n\n\n\n\n\n\n\n\n\n\n\nOct 8, 2023\n\n\nCharan Teja Chelle\n\n\n\n\n\n\n  \n\n\n\n\nPost 1 - Probability Theory and Random Variables\n\n\n\n\n\n\n\ncode\n\n\ndata visualization\n\n\n\n\n\n\n\n\n\n\n\nSep 15, 2023\n\n\nCharan Teja Chelle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/1. Probability theory and random variables/index.html",
+    "href": "posts/1. Probability theory and random variables/index.html",
+    "title": "Post 1 - Probability Theory and Random Variables",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/3. Linear and nonlinear regression/index.html",
+    "href": "posts/3. Linear and nonlinear regression/index.html",
+    "title": "Post 3 - Linear and Nonlinear Regression",
+    "section": "",
+    "text": "Post 3…..\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/5. Anomaly (outlier detection)/index.html",
+    "href": "posts/5. Anomaly (outlier detection)/index.html",
+    "title": "Post 5 - Anomaly/outlier detection",
+    "section": "",
+    "text": "Post 5…..\n\n1 + 1\n\n[1] 2"
+  }
+]

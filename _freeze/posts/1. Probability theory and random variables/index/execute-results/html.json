@@ -1,0 +1,14 @@
+{
+  "hash": "8d64538b7c90584a3104606d3becfee2",
+  "result": {
+    "markdown": "---\ntitle: \"Post 1 - Probability Theory and Random Variables\"\nauthor: \"Charan Teja Chelle\"\ndate: \"2023-08-27\"\ncategories: [code, data visualization]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

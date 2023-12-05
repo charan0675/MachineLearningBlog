@@ -1,0 +1,13 @@
+---
+title: "Post 5 - Anomaly/outlier detection"
+author: "Charan Teja Chelle"
+date: "2023-12-04"
+categories: [code, data visualization]
+image: "image.jpg"
+---
+
+Post 5.....
+
+```{r}
+1 + 1
+```
