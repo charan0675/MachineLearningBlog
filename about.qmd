@@ -11,8 +11,4 @@ about:
       href: https://github.com/charan0675/MachineLearningBlog
 ---
 
-About this blog..
-
-bhbk nnk
-
-ji
+This blog predominantly focuses on various posts pertaining to topics that play critical roles in different aspects of machine learning. Topics include Probability theory and random variables, Clustering, Linear and nonlinear regression, Classification, Anomaly (outlier detection). The significance and relevance of all these topics are explained comprehensively (along with code samples and data visualization) in the blog posts.
