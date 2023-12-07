@@ -8,6 +8,7 @@ format:
 author: "Charan Teja Chelle"
 date: "2023-12-04"
 categories: [code, data visualization]
+image: "anomalydetection.jpg"
 ---
 
 # Introduction

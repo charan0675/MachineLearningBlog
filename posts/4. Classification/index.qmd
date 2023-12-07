@@ -8,6 +8,7 @@ format:
 author: "Charan Teja Chelle"
 date: "2023-11-19"
 categories: [code, data visualization]
+image: "classification.jpg"
 ---
 
 # Introduction
